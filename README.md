@@ -18,4 +18,4 @@ If you share my passion for Data Science or aspire to enhance your skills in thi
 
 So, let's embark on this data-driven adventure together. Dive into my repositories, explore the fascinating world of data science, and let's build a brighter, data-driven future. 🚀📊🤖
 
-Feel free to connect with me on ( https://www.linkedin.com/in/surajkumargupta1/ ) and let's learn and grow together! 🌟
+let's learn and grow together! 🌟
